@@ -6,12 +6,12 @@ module.exports = {
     formspreeEndpoint: "https://formspree.io/f/mqkweaqe",
   },
   plugins: [
+    `gatsby-plugin-gatsby-cloud`,
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
         theme: "warm-red",
         showThemeLogo: false,
-
       },
     },
   ],

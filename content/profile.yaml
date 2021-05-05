@@ -19,7 +19,7 @@
     - Python
   tools:
     - React
-    - Vue
+    - GraphQL
     - node.js
   budget:
     currency: $
