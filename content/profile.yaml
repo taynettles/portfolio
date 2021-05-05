@@ -1,0 +1,28 @@
+- profile:
+  initials: TN
+  name: Taylen Nettles
+  profession: Web Developer
+  image: images/headshot-leaves.jpg
+  location: Austin, TX
+  relocation: true
+  company: TekSavers Inc. 
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    Self-taught front end developer based in Austin, Texas.
+    I enjoy breaking things and learning how to rebuild them even better than before.
+    When I'm not working on projects, I enjoy playing bass, trying new recipes, and tackling DIY projects.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Python
+  tools:
+    - React
+    - Vue
+    - node.js
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

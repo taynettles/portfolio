@@ -1,0 +1,20 @@
+- name: CRE Closer
+  url: https://crecloser.com
+  description: eBook landing page for a commercial real estate agent in Austin. Uses Stripe API to handle payments.
+  status: live
+  tags:
+    - HTML/CSS
+    - Node
+    - Stripe
+  icon: website 
+
+- name: eCommerce Demo
+  url: https://demoshop.vercel.app/
+  description: Next.js project demonstrating a custom eCommerce platform, deployed on Vercel.
+  status: live
+  tags:
+    - Next
+    - Vercel
+    - Crystallize
+  icon: website
+  image: images/demoshop.png
