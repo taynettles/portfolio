@@ -4,7 +4,7 @@
   profession: Web Developer
   image: images/headshot-leaves.jpg
   location: Austin, TX
-  relocation: true
+  relocation: false
   company: TekSavers Inc. 
   for_hire: true
   focus: Learning Gatsby
