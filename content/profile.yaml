@@ -5,20 +5,23 @@
   image: images/headshot-leaves.jpg
   location: Austin, TX
   relocation: false
-  company: TekSavers Inc. 
+  company: Open to work!
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Picking up SvelteKit
+  focus_url: https://kit.svelte.dev
   about: |
-    Self-taught front end developer based in Austin, Texas.
-    I enjoy breaking things and learning how to rebuild them even better than before.
-    When I'm not working on websites, I enjoy playing bass, trying new recipes, and tackling DIY projects.
+    Full Stack Engineer based in Austin, TX.
+    Most of my industry experience has been focused on marketing and eCommerce, though I'm always looking to branch out into other disciplines. 
+    When I'm not working on websites, I enjoy playing bass and trying out new recipes.
   skills:
     - JavaScript
     - HTML / CSS
     - Python
+    - PHP
   tools:
     - React
+    - Vue
+    - Gatsby
     - GraphQL
     - node.js
   budget:

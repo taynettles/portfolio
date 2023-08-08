@@ -1,12 +1,11 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of Taylen Nettles",
+    description: "Personal oortfolio site for Taylen Nettles",
     locale: "en",
     title: "Taylen Nettles",
     formspreeEndpoint: "https://formspree.io/f/mqkweaqe",
   },
   plugins: [
-    `gatsby-plugin-gatsby-cloud`,
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
