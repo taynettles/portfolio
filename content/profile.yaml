@@ -17,13 +17,13 @@
     - JavaScript
     - HTML / CSS
     - Python
-    - PHP
   tools:
-    - React
     - Vue
-    - Gatsby
-    - GraphQL
+    - React
+    - Nuxt
     - node.js
+    - Sanity.io
+    - GraphQL
   budget:
     currency: $
     min: 5
