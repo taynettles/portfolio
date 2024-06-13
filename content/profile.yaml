@@ -1,11 +1,11 @@
 - profile:
   initials: TN
   name: Taylen Nettles
-  profession: Web Developer
+  profession: Software Engineer
   image: images/headshot-leaves.jpg
   location: Austin, TX
   relocation: false
-  company: Open to work!
+  company: Bumperactive
   for_hire: true
   focus: Picking up SvelteKit
   focus_url: https://kit.svelte.dev
