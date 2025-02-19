@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal oortfolio site for Taylen Nettles",
+    description: "Personal portfolio site for Taylen Nettles",
     locale: "en",
     title: "Taylen Nettles",
     formspreeEndpoint: "https://formspree.io/f/mqkweaqe",
